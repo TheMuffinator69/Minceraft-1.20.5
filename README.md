@@ -1,6 +1,6 @@
 Eaglercraft 1.20.5 Server by Ryan Norshare !
 <br>
-**Step 1:** Installing some stuff :D in a new terminal tyoe `sudo apt install default-jdk && sudo apt install default-jre -y` 
+**Step 1:** Installing some stuff :D in a new terminal type `sudo apt install default-jdk && sudo apt install default-jre -y` 
 <br>
 <br>
 **Step 2:** Open two new terminals type `cd server && sudo java -jar server.jar` in the first and in the second type `cd bungee && sudo java -jar bungeecord.jar` 
